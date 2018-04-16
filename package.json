@@ -1,0 +1,22 @@
+{
+  "name": "mindfulness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mindfulness.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopugit/mindfulness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopugit/mindfulness/issues"
+  },
+  "homepage": "https://github.com/lopugit/mindfulness#readme",
+  "dependencies": {
+    "node-notifier": "^5.2.1"
+  }
+}
